@@ -2591,5 +2591,4 @@ Most operating systems can be classified into two distinct families. Operating s
 
 ## Summary
 
-In this training you will gain skill on Java programming. I will explain basics of programming as well as syntax of Java. Then you have learned how to make simple programs. There were 2 case studies: one Hello World, another was a calculator.
-
+TODO.
